@@ -1,30 +1,11 @@
 ### Hi there 👋
 
+Passionate about data analytics and privacy issues.
+
+I enjoy to think about how related these two subjects should be, for AI to thrive through more control & confidence but also ethics & sustainability.
+
 <!--
-**vdwow/vdwow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-My name is Valentin. I am currently an engineering student passionate about the world of Artificial Intelligence 🤖. 
-
-I love maths and coding ! Always eager to learn more ✌️
-
-My main fields of interests are:
-- NLP
-- Computer Vision
-- Robotics & Automation
-
----
 ### 🔭 What I work with 
 
 #### Artificial Intelligence 
@@ -111,10 +92,13 @@ My main fields of interests are:
 - Bouldering 🧗
 - Video games 👾 ![](https://img.shields.io/badge/PlayStation-003791?style=flat&logo=playstation&logoColor=white)
 ---
+
+-->
+
 ### Some Github Stats
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chloeskt&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vdwow&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </p>
 
--->
+
