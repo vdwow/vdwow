@@ -61,10 +61,6 @@ I enjoy to think about how related these two subjects should be, for AI to thriv
 ![](https://img.shields.io/badge/DB-SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=07405e)
 ![](https://img.shields.io/badge/DB-Mongo_DB-informational?style=flat&logo=mongodb&logoColor=white&color=4ea94b)
 
-#### Robotics & Hardware
-
-![](https://img.shields.io/badge/Toy-Raspberry_Pi-informational?style=flat&logo=Raspberry-Pi&logoColor=white&color=C51A4A)
-
 ---
 ### 🌱 What I'd like to learn
 
@@ -76,24 +72,13 @@ I enjoy to think about how related these two subjects should be, for AI to thriv
 ![](https://img.shields.io/badge/Tools-Node.JS-informational?style=flat&logo=node.js&logoColor=white&color=43853D)
 ![](https://img.shields.io/badge/Data-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 
+-->
 
 ---
 ### 💬 Where to contact me 
 
-- LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-chloe_sekkat-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chloe-sekkat/)](https://www.linkedin.com/in/chloe-sekkat/)
+- LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-chloe_sekkat-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/valentindefour/)](https://www.linkedin.com/in/valentindefour/)
 ---
-### ⚡ My hobbies
-
-- Photography 📷
-- Travels 🗺
-- Music 🎹
-- Running 🏃‍
-- Basketball 🏀
-- Bouldering 🧗
-- Video games 👾 ![](https://img.shields.io/badge/PlayStation-003791?style=flat&logo=playstation&logoColor=white)
----
-
--->
 
 ### Some Github Stats
 
