@@ -77,7 +77,7 @@ I enjoy to think about how related these two subjects should be, for AI to thriv
 ---
 ### 💬 Where to contact me 
 
-- LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-chloe_sekkat-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/valentindefour/)](https://www.linkedin.com/in/valentindefour/)
+- LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-valentindefour-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/valentindefour/)](https://www.linkedin.com/in/valentindefour/)
 ---
 
 ### Some Github Stats
