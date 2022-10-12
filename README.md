@@ -14,12 +14,14 @@ I enjoy to think about how related these two subjects should be, for AI to thriv
 ![Jupyter Notebook](https://img.shields.io/badge/ML-Jupyter-%23FA0F00.svg?&logo=jupyter&logoColor=white&color=orange&style=for-the-badge)
 ![scikit-learn](https://img.shields.io/badge/ML-Scikit--learn-%23F7931E.svg?logo=Scikit-learn&logoColor=white&style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/ML-Pandas-%23150458.svg?logo=Pandas&logoColor=white&style=for-the-badge)
-![Plotly](https://img.shields.io/badge/Viz-Plotly-%233F4F75.svg?logo=Plotly&logoColor=white&style=for-the-badge)
+![Dataïku](https://img.shields.io/badge/DS-Dataïku-svg?logo=Dataiku&logoColor=white&style=for-the-badge&color=2AB1AC)
 
-#### Front-end 📱
+#### Front-end & Viz 📱
 
 ![](https://img.shields.io/badge/Web-Dash_Plotly-informational?style=for-the-badge&logo=plotly&logoColor=white&color=007ACC)
-![](https://img.shields.io/badge/Web-React_Native-informational?style=for-the-badge&logo=react&logoColor=white&color=61dafb)
+![Plotly](https://img.shields.io/badge/Viz-Plotly-%233F4F75.svg?logo=Plotly&logoColor=white&style=for-the-badge)
+![PowerBI](https://img.shields.io/badge/Viz-PowerBI-.svg?logo=Power-BI&logoColor=white&style=for-the-badge&color=F2C811)
+![Tableau](https://img.shields.io/badge/Viz-Tableau-.svg?logo=Tableau&logoColor=white&style=for-the-badge&color=E97627)
 
 #### Cloud ☁️
 
@@ -47,9 +49,9 @@ I enjoy to think about how related these two subjects should be, for AI to thriv
 
 ### ✒️ What I like to write on
 
-![AI ethics](https://img.shields.io/badge/AI-Ethics-EE4C2C?style=for-the-badge)
+![AI ethics](https://img.shields.io/badge/AI-Ethics-EE4C2C?style=for-the-badge&color=430098)
 ![Green IT](https://img.shields.io/badge/Green-IT-EE4C2C?style=for-the-badge&color=4ea94b)
-![Tech 4 Good](https://img.shields.io/badge/Tech-4Good-EE4C2C?style=for-the-badge)
+![Tech 4 Good](https://img.shields.io/badge/Tech-4Good-EE4C2C?style=for-the-badge&color=007ACC)
 
 ---
 
