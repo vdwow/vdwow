@@ -36,7 +36,7 @@ I enjoy to think about how related these two subjects should be, for AI to thriv
 
 ---
 
-### 🌱 What I'd like to learn
+### 🌱 What I'm learning
 
 ![PyTorch](https://img.shields.io/badge/DL-PyTorch-EE4C2C?logo=PyTorch&logoColor=white&style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/DL-TensorFlow-FF6F00?logo=TensorFlow&logoColor=white&style=for-the-badge)
