@@ -10,7 +10,7 @@ I enjoy to think about how related these two subjects should be, for AI to thriv
 
 #### AI / ML
 
-![Anaconda](https://img.shields.io/badge/ML-Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white&color=green&style=for-the-badge)
+![Anaconda](https://img.shields.io/badge/ML-Anaconda-%2344A833.svg?logo=anaconda&logoColor=white&color=green&style=for-the-badge)
 ![Jupyter Notebook](https://img.shields.io/badge/ML-Jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white&color=orange&style=for-the-badge)
 ![scikit-learn](https://img.shields.io/badge/ML-Scikit--learn-%23F7931E.svg?style=flat&logo=Scikit-learn&logoColor=white&style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/ML-Pandas-%23150458.svg?style=flat&logo=Pandas&logoColor=white&style=for-the-badge)
