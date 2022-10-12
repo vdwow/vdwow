@@ -15,8 +15,6 @@ I enjoy to think about how related these two subjects should be, for AI to thriv
 ![scikit-learn](https://img.shields.io/badge/ML-Scikit--learn-%23F7931E.svg?logo=Scikit-learn&logoColor=white&style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/ML-Pandas-%23150458.svg?logo=Pandas&logoColor=white&style=for-the-badge)
 ![Plotly](https://img.shields.io/badge/Viz-Plotly-%233F4F75.svg?logo=Plotly&logoColor=white&style=for-the-badge)
-![PyTorch](https://img.shields.io/badge/DL-PyTorch-EE4C2C?logo=PyTorch&logoColor=white&style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/DL-TensorFlow-FF6F00?logo=TensorFlow&logoColor=white&style=for-the-badge)
 
 #### Front-end
 
@@ -26,6 +24,7 @@ I enjoy to think about how related these two subjects should be, for AI to thriv
 #### Cloud
 
 ![](https://img.shields.io/badge/Cloud-Heroku-informational?style=for-the-badge&logo=heroku&logoColor=white&color=430098)
+![](https://img.shields.io/badge/Cloud-GCP-informational?style=for-the-badge&logo=google-cloud&logoColor=white&color=4285F4)
 
 #### Database
 
@@ -35,13 +34,8 @@ I enjoy to think about how related these two subjects should be, for AI to thriv
 
 ### 🌱 What I'd like to learn
 
-![](https://img.shields.io/badge/Code-Golang-informational?style=for-the-badge&logo=go&logoColor=white&color=00add8)
-![](https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=java&logoColor=white&color=orange)
-![](https://img.shields.io/badge/Code-C%2B%2B-informational?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=00599C)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=for-the-badge&logo=kubernetes&logoColor=white&color=316ce6)
-![](https://img.shields.io/badge/Web-Angular-informational?style=for-the-badge&logo=angular&logoColor=white&color=DD0031)
-![](https://img.shields.io/badge/Tools-Node.JS-informational?style=for-the-badge&logo=node.js&logoColor=white&color=43853D)
-![](https://img.shields.io/badge/Data-PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=2bbc8a)
+![PyTorch](https://img.shields.io/badge/DL-PyTorch-EE4C2C?logo=PyTorch&logoColor=white&style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/DL-TensorFlow-FF6F00?logo=TensorFlow&logoColor=white&style=for-the-badge)
 
 ---
 
