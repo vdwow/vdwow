@@ -20,17 +20,19 @@ I enjoy to think about how related these two subjects should be, for AI to thriv
 
 ![](https://img.shields.io/badge/Web-Dash_Plotly-informational?style=for-the-badge&logo=plotly&logoColor=white&color=007ACC)
 ![Plotly](https://img.shields.io/badge/Viz-Plotly-%233F4F75.svg?logo=Plotly&logoColor=white&style=for-the-badge)
-![PowerBI](https://img.shields.io/badge/Viz-PowerBI-.svg?logo=Power-BI&logoColor=white&style=for-the-badge&color=F2C811)
-![Tableau](https://img.shields.io/badge/Viz-Tableau-.svg?logo=Tableau&logoColor=white&style=for-the-badge&color=E97627)
+![PowerBI](https://img.shields.io/badge/Viz-PowerBI-svg?logo=Power-BI&logoColor=white&style=for-the-badge&color=F2C811)
+![Tableau](https://img.shields.io/badge/Viz-Tableau-svg?logo=Tableau&logoColor=white&style=for-the-badge&color=E97627)
 
 #### Cloud ☁️
 
 ![](https://img.shields.io/badge/Cloud-Heroku-informational?style=for-the-badge&logo=heroku&logoColor=white&color=430098)
+![Streamlit](https://img.shields.io/badge/Cloud-Streamlit-svg?logo=Streamlit&logoColor=white&style=for-the-badge&color=FF4B4B)
 ![](https://img.shields.io/badge/Cloud-GCP-informational?style=for-the-badge&logo=google-cloud&logoColor=white&color=4285F4)
 
 #### Database 💾
 
 ![](https://img.shields.io/badge/DB-Mongo_DB-informational?style=for-the-badge&logo=mongodb&logoColor=white&color=4ea94b)
+![](https://img.shields.io/badge/DB-Big_Query-informational?style=for-the-badge&color=4285F4)
 
 ---
 
@@ -44,14 +46,15 @@ I enjoy to think about how related these two subjects should be, for AI to thriv
 ### 💬 Where to contact me 
 
 [![Linkedin Badge](https://img.shields.io/badge/-valentindefour-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/valentindefour/)](https://www.linkedin.com/in/valentindefour/)
+[![Website Badge](https://img.shields.io/badge/-valentindefour-red?style=for-the-badge&logo=Photobucket&logoColor=white&link=https://www.valentindefour.com/)](https://www.valentindefour.com/)
 
 ---
 
 ### ✒️ What I like to write on
 
-![AI ethics](https://img.shields.io/badge/AI-Ethics-EE4C2C?style=for-the-badge&color=430098)
-![Green IT](https://img.shields.io/badge/Green-IT-EE4C2C?style=for-the-badge&color=4ea94b)
-![Tech 4 Good](https://img.shields.io/badge/Tech-4Good-EE4C2C?style=for-the-badge&color=007ACC)
+![AI ethics](https://img.shields.io/badge/AI-Ethics-EE4C2C?style=for-the-badge&color=430098&link=https://medium.com/@valentin.defour)
+![Green IT](https://img.shields.io/badge/Green-IT-EE4C2C?style=for-the-badge&color=4ea94b&link=https://medium.com/@valentin.defour)
+![Tech 4 Good](https://img.shields.io/badge/Tech-4Good-EE4C2C?style=for-the-badge&color=007ACC&link=https://medium.com/@valentin.defour)
 
 ---
 
