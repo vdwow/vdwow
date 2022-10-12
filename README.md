@@ -52,14 +52,15 @@ I enjoy to think about how related these two subjects should be, for AI to thriv
 
 ### ✒️ What I like to write on
 
-![AI ethics](https://img.shields.io/badge/AI-Ethics-EE4C2C?style=for-the-badge&color=430098&link=https://medium.com/@valentin.defour)(https://medium.com/@valentin.defour)
-![Green IT](https://img.shields.io/badge/Green-IT-EE4C2C?style=for-the-badge&color=4ea94b&link=https://medium.com/@valentin.defour)(https://medium.com/@valentin.defour)
-![Tech 4 Good](https://img.shields.io/badge/Tech-4Good-EE4C2C?style=for-the-badge&color=007ACC&link=https://medium.com/@valentin.defour)(https://medium.com/@valentin.defour)
+[![AI ethics](https://img.shields.io/badge/AI-Ethics-EE4C2C?style=for-the-badge&color=430098&link=https://medium.com/@valentin.defour)](https://medium.com/@valentin.defour)
+[![Green IT](https://img.shields.io/badge/Green-IT-EE4C2C?style=for-the-badge&color=4ea94b&link=https://medium.com/@valentin.defour)](https://medium.com/@valentin.defour)
+[![Tech 4 Good](https://img.shields.io/badge/Tech-4Good-EE4C2C?style=for-the-badge&color=007ACC&link=https://medium.com/@valentin.defour)](https://medium.com/@valentin.defour)
 
 ---
 
 ### Some Github Stats
 
-![Vdwow's GitHub stats](https://github-readme-stats.vercel.app/api?username=vdwow&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vdwow&layout=compact)](https://github.com/vdwow/github-readme-stats)
+![Vdwow's GitHub stats](https://github-readme-stats.vercel.app/api?username=vdwow&show_icons=true&theme=dark&card_width=300)
 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vdwow&layout=compact)](https://github.com/vdwow/github-readme-stats)
+ -->
