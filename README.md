@@ -4,17 +4,19 @@ Passionate about data analytics and privacy issues.
 
 I enjoy to think about how related these two subjects should be, for AI to thrive through more control & confidence but also ethics & sustainability.
 
+---
+
 ### 🔭 Tools I use :
 
 #### AI / ML
 
-![Anaconda](https://img.shields.io/badge/ML-Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white&color=green)
-![Jupyter Notebook](https://img.shields.io/badge/ML-Jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white&color=orange)
-![scikit-learn](https://img.shields.io/badge/ML-Scikit--learn-%23F7931E.svg?style=flat&logo=Scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/ML-Pandas-%23150458.svg?style=flat&logo=Pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Viz-Plotly-%233F4F75.svg?style=flat&logo=Plotly&logoColor=white)
-![PyTorch](https://img.shields.io/badge/DL-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/DL-TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)
+![Anaconda](https://img.shields.io/badge/ML-Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white&color=green&style=for-the-badge)
+![Jupyter Notebook](https://img.shields.io/badge/ML-Jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white&color=orange&style=for-the-badge)
+![scikit-learn](https://img.shields.io/badge/ML-Scikit--learn-%23F7931E.svg?style=flat&logo=Scikit-learn&logoColor=white&style=for-the-badge)
+![Pandas](https://img.shields.io/badge/ML-Pandas-%23150458.svg?style=flat&logo=Pandas&logoColor=white&style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Viz-Plotly-%233F4F75.svg?style=flat&logo=Plotly&logoColor=white&style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/DL-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white&style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/DL-TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white&style=for-the-badge)
 
 #### Front-end
 
@@ -27,7 +29,6 @@ I enjoy to think about how related these two subjects should be, for AI to thriv
 
 #### Database
 
-![](https://img.shields.io/badge/DB-SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=07405e)
 ![](https://img.shields.io/badge/DB-Mongo_DB-informational?style=flat&logo=mongodb&logoColor=white&color=4ea94b)
 
 ---
