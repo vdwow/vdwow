@@ -20,13 +20,13 @@ I enjoy to think about how related these two subjects should be, for AI to thriv
 
 ![](https://img.shields.io/badge/Web-Dash_Plotly-informational?style=for-the-badge&logo=plotly&logoColor=white&color=007ACC)
 ![Plotly](https://img.shields.io/badge/Viz-Plotly-%233F4F75.svg?logo=Plotly&logoColor=white&style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/App-Streamlit-svg?logo=Streamlit&logoColor=white&style=for-the-badge&color=FF4B4B)
 ![PowerBI](https://img.shields.io/badge/Viz-PowerBI-svg?logo=Power-BI&logoColor=white&style=for-the-badge&color=F2C811)
 ![Tableau](https://img.shields.io/badge/Viz-Tableau-svg?logo=Tableau&logoColor=white&style=for-the-badge&color=E97627)
 
 #### Cloud ☁️
 
 ![](https://img.shields.io/badge/Cloud-Heroku-informational?style=for-the-badge&logo=heroku&logoColor=white&color=430098)
-![Streamlit](https://img.shields.io/badge/Cloud-Streamlit-svg?logo=Streamlit&logoColor=white&style=for-the-badge&color=FF4B4B)
 ![](https://img.shields.io/badge/Cloud-GCP-informational?style=for-the-badge&logo=google-cloud&logoColor=white&color=4285F4)
 
 #### Database 💾
