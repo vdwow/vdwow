@@ -48,8 +48,8 @@ I enjoy to think about how related these two subjects should be, for AI to thriv
 ### ✒️ What I like to write on
 
 ![AI ethics](https://img.shields.io/badge/AI-Ethics-EE4C2C?style=for-the-badge)
-![Green IT](https://img.shields.io/badge/AI-Ethics-EE4C2C?style=for-the-badge)
-![Tech 4 Good](https://img.shields.io/badge/AI-Ethics-EE4C2C?style=for-the-badge)
+![Green IT](https://img.shields.io/badge/Green-IT-EE4C2C?style=for-the-badge&color=4ea94b)
+![Tech 4 Good](https://img.shields.io/badge/Tech-4Good-EE4C2C?style=for-the-badge)
 
 ---
 
