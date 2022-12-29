@@ -29,24 +29,12 @@ I enjoy to think about how related these two subjects should be, for AI to thriv
 ![](https://img.shields.io/badge/Cloud-Heroku-informational?style=for-the-badge&logo=heroku&logoColor=white&color=430098)
 ![](https://img.shields.io/badge/Cloud-GCP-informational?style=for-the-badge&logo=google-cloud&logoColor=white&color=4285F4)
 
-#### Database 💾
-
-![](https://img.shields.io/badge/DB-Mongo_DB-informational?style=for-the-badge&logo=mongodb&logoColor=white&color=4ea94b)
-![](https://img.shields.io/badge/DB-Big_Query-informational?style=for-the-badge&color=4285F4)
-
 ---
 
 ### 🌱 What I'm learning
 
 ![PyTorch](https://img.shields.io/badge/DL-PyTorch-EE4C2C?logo=PyTorch&logoColor=white&style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/DL-TensorFlow-FF6F00?logo=TensorFlow&logoColor=white&style=for-the-badge)
-
----
-
-### 💬 Where to contact me 
-
-[![Linkedin Badge](https://img.shields.io/badge/-valentindefour-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/valentindefour/)](https://www.linkedin.com/in/valentindefour/)
-[![Website Badge](https://img.shields.io/badge/-valentindefour-red?style=for-the-badge&logo=Photobucket&logoColor=white&link=https://www.valentindefour.com/)](https://www.valentindefour.com/)
 
 ---
 
