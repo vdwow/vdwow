@@ -12,12 +12,10 @@ I enjoy to think about how related all these subjects should be, for AI to thriv
 
 ![Anaconda](https://img.shields.io/badge/ML-Anaconda-%2344A833.svg?logo=anaconda&logoColor=white&color=green&style=for-the-badge)
 ![scikit-learn](https://img.shields.io/badge/ML-Scikit--learn-%23F7931E.svg?logo=Scikit-learn&logoColor=white&style=for-the-badge)
-![Pandas](https://img.shields.io/badge/ML-Pandas-%23150458.svg?logo=Pandas&logoColor=white&style=for-the-badge)
 ![Dataïku](https://img.shields.io/badge/DS-Dataïku-svg?logo=Dataiku&logoColor=white&style=for-the-badge&color=2AB1AC)
 
 #### Front-end & Viz 📱
 
-![](https://img.shields.io/badge/Web-Dash_Plotly-informational?style=for-the-badge&logo=plotly&logoColor=white&color=007ACC)
 ![Streamlit](https://img.shields.io/badge/App-Streamlit-svg?logo=Streamlit&logoColor=white&style=for-the-badge&color=FF4B4B)
 ![PowerBI](https://img.shields.io/badge/Viz-PowerBI-svg?logo=Power-BI&logoColor=white&style=for-the-badge&color=F2C811)
 ![Tableau](https://img.shields.io/badge/Viz-Tableau-svg?logo=Tableau&logoColor=white&style=for-the-badge&color=E97627)
