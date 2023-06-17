@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Passionate about data analytics and privacy issues.
+Passionate about machine learning, AI ethics, green IT and data privacy issues.
 
-I enjoy to think about how related these two subjects should be, for AI to thrive through more control & confidence but also ethics & sustainability.
+I enjoy to think about how related all these subjects should be, for AI to thrive through more control & confidence but also ethics & sustainability.
 
 ---
 
