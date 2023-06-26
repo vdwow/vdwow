@@ -8,28 +8,7 @@ I also love experimentating data projects (scrappers, ML engines, ...) related t
 
 ---
 
-### 🔧 Tools I use :
-
-#### AI / ML 🤖
-
-![Anaconda](https://img.shields.io/badge/ML-Anaconda-%2344A833.svg?logo=anaconda&logoColor=white&color=green&style=for-the-badge)
-![scikit-learn](https://img.shields.io/badge/ML-Scikit--learn-%23F7931E.svg?logo=Scikit-learn&logoColor=white&style=for-the-badge)
-![Dataïku](https://img.shields.io/badge/DS-Dataïku-svg?logo=Dataiku&logoColor=white&style=for-the-badge&color=2AB1AC)
-
-#### Front-end & Viz 📱
-
-![Streamlit](https://img.shields.io/badge/App-Streamlit-svg?logo=Streamlit&logoColor=white&style=for-the-badge&color=FF4B4B)
-![PowerBI](https://img.shields.io/badge/Viz-PowerBI-svg?logo=Power-BI&logoColor=white&style=for-the-badge&color=F2C811)
-![Tableau](https://img.shields.io/badge/Viz-Tableau-svg?logo=Tableau&logoColor=white&style=for-the-badge&color=E97627)
-
-#### Cloud ☁️
-
-![](https://img.shields.io/badge/Cloud-Heroku-informational?style=for-the-badge&logo=heroku&logoColor=white&color=430098)
-![](https://img.shields.io/badge/Cloud-GCP-informational?style=for-the-badge&logo=google-cloud&logoColor=white&color=4285F4)
-
----
-
-### 🌱 What I'm learning
+### 🌱 Currently learning
 
 ![PyTorch](https://img.shields.io/badge/DL-PyTorch-EE4C2C?logo=PyTorch&logoColor=white&style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/DL-TensorFlow-FF6F00?logo=TensorFlow&logoColor=white&style=for-the-badge)
