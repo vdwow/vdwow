@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Passionate about machine learning, AI ethics, green IT and data privacy issues.
+Passionate about machine learning, AI ethics, green(er) IT and data privacy issues.
 
 I enjoy to think about how related all these subjects should be, for AI to thrive through more control & confidence but also ethics & sustainability.
 
