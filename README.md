@@ -4,7 +4,7 @@ Passionate about machine learning, AI ethics, green(er) IT and data privacy issu
 
 I enjoy to think about how related all these subjects should be, for AI to thrive through more control & confidence but also ethics & sustainability.
 
-I also love experimentating data projects (scrappers, ML engines, ...) related to my hobbies : sports (and badminton) analytics, videogames, ...
+I also love experimentating with data projects (scrappers, ML engines, ...) related to my hobbies : sports (and badminton) analytics, videogames, ...
 
 ---
 
